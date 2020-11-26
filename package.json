@@ -1,0 +1,12 @@
+{
+  "Name": "Leaning Bot",
+  "description": "Simp!",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12"
+  }
+}
